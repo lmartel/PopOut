@@ -6,4 +6,4 @@ Feel free to [contact me](http://lpm.io/contact) with any questions!
 
 Install PopOut
 --------------
-Get it from the [Google webstore](TODO).
+Get it from the [Google webstore](https://chrome.google.com/webstore/detail/popout/pepmkldcbobcclmpplfpbllopdkipnnd).
